@@ -127,9 +127,3 @@ Join us in the next video as we take a deep dive into how RLHF works its magic, 
 [加入我们，探索更多AI！](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
 
 ---
-
----
-
-[Join us for more AI explorations!](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
-
----
