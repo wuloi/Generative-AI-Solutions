@@ -14,7 +14,7 @@
 
 ### 关于我 🐬
 
-我拥有高级工商管理硕士学位，并在广州创业，致力于将生成式人工智能技术应用于商业实践。
+我拥有高级工商管理硕士学位，NPDP新产品开发专家认证持证，致力于将生成式人工智能技术应用于商业实践。
 
 我的专长在于 Agents 设计、插件和 API 生态，以及 Langchain 和 CrewAI 等基础框架的应用。
 
@@ -24,10 +24,15 @@
 
 ## 加入社区 🌿
 
-欢迎加入 🌿觅识 社区 [AI PM「人工智能产品管理」](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
+产品社区资源：
 
+- 欢迎加入 🌿觅识 社区 [AI PM「人工智能产品管理」](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
 
-# 以下附一份生成式AI学习框架，欢迎使用
+技术研究资源：
+
+- [Generative-AI-Solutions](https://github.com/wuloi/Generative-AI-Solutions) 
+- [Building-LLM-powered-Solutions](https://github.com/wuloi/Building-LLM-powered-Solutions) 
+- [Generative-AI-on-BigOne](https://github.com/wuloi/Generative-AI-on-BigOne)
 
 ## 三周生成式AI精读计划 (附链接)
 
@@ -64,8 +69,8 @@
 
 **学习方法:**
 
-* **主动阅读：**  阅读过程中记录问题和想法，并尝试解答。[Generative-AI-Solutions](https://github.com/wuloi/Generative-AI-Solutions) 
-* **实践应用：**  尝试复现论文中的代码或进行相关实验。 [Building-LLM-powered-Solutions](https://github.com/wuloi/Building-LLM-powered-Solutions) 
+* **主动阅读：**  阅读过程中记录问题和想法，并尝试解答。
+* **实践应用：**  尝试复现论文中的代码或进行相关实验。 
 * **交流讨论：**  与他人分享学习心得，参与线上线下讨论。 加入🌿觅识 社区 [AI PM「人工智能产品管理」](https://roadmaps.feishu.cn/wiki/RykrwFxPiiU4T7kZ63bc7Lqdnch)
 
 **学习顺利！** 
